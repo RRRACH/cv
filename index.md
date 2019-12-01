@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Header 1
+# CV
 
 Here is a link to my [CV](http://registry.jsonresume.org/rrrach).
